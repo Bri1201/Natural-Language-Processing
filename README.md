@@ -1,3 +1,2 @@
-"#StockMarketAnalysis"
-"# StockUpdateEmailer" 
-"# Natural-Language-Processing" 
+Sentiment Analysis for reviews
+
